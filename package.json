@@ -33,7 +33,7 @@
     "openzeppelin-solidity": "^2.3.0",
     "tabookey-gasless": "^0.3.3-a",
     "truffle-assertions": "^0.9.1",
-    "truffle-hdwallet-provider": "^1.0.3",
+    "truffle-hdwallet-provider": "^1.0.17",
     "web3": "^1.0.0-beta.55",
     "zos-lib": "^2.2.0"
   },
