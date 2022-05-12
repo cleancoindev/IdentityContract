@@ -26,7 +26,7 @@
     "@openzeppelin/cli": "^2.5.0",
     "assert": "^2.0.0",
     "dotenv": "^6.2.0",
-    "ganache-cli": "^6.4.4",
+    "ganache-cli": "^6.12.2",
     "mocha": "^6.1.4",
     "node-pre-gyp": "^0.13.0",
     "openzeppelin-eth": "^2.1.3",
